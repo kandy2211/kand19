@@ -36,6 +36,15 @@ public class Example {
 		links.get(r.nextInt(4)).click();
 		String title = driver.getTitle();
 		System.out.println(title);
+		
+		
+		
+		String a="kanndasa";
+		
+		
+		
+		
+		
 
 	}
 
